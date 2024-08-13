@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amaris! <br/><a href="[https://github.com/quinn-am](https://github.com/quinn-am)](https://github.com/quinn-am)"(https://github.com/quinn-am)"> Cybersecurity Professional</a></h1>
+<h1>Welcome! <br/><a href="[https://github.com/quinn-am](https://github.com/quinn-am)](https://github.com/quinn-am)"(https://github.com/quinn-am)"> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
